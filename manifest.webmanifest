@@ -1,0 +1,13 @@
+{
+  "id": "./miniRPG.html",
+  "name": "こだまの野原 — Mini RPG",
+  "short_name": "Mini RPG",
+  "description": "フィールドを探索し、魔物と戦いながら成長する小さな2D RPG",
+  "lang": "ja",
+  "start_url": "./miniRPG.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1020",
+  "theme_color": "#111a2e"
+}
