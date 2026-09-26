@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_NAME = 'mini-rpg-cache-v24';
+const CACHE_NAME = 'mini-rpg-cache-v25';
 const CACHE_PREFIX = 'mini-rpg-cache-';
 const APP_SHELL = [
   './',
